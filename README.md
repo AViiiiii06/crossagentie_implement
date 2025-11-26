@@ -300,8 +300,3 @@ The goal is:
 * **Conflict resolution**
 * **Realistic paper-style experimentation**
 
----
-
-
-
-Just tell me!
